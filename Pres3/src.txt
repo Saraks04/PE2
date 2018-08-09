@@ -1,0 +1,1 @@
+Copy contents from here to target file.
